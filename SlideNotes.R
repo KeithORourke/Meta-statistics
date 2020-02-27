@@ -45,11 +45,11 @@ narateTxt$Slide2 <- "Slide 2. Background.
 
 The first item on this slide is just to provide some authority for me claiming to be expressing informed views on statistics, inclusive of Bayesian methods. I am surprised and grateful that a number of faculty from Duke continue to provide advice on Bayesian methods whenever I have asked. 
 
-Then there are my two kicks at providing instruction on Bayesian methods to reviewers in Health Canada. In total, I spent almost 100 hours putting the first course together and revising the second. Most of that on evenings and weekends. The course descriptions were well received - as the quoted comment indicates. A related abstract was entitled perceptive simulation (smart Monte Carlo) as the basis for understanding, implementing and evaluating Bayesian analysis in a regulatory setting. 
+Then there are my two kicks at providing instruction on Bayesian methods to reviewers in XX. In total, I spent almost 100 hours putting the first course together and revising the second. Most of that on evenings and weekends. The course descriptions were well received - as the quoted comment indicates. A related abstract was entitled perceptive simulation (smart Monte Carlo) as the basis for understanding, implementing and evaluating Bayesian analysis in a regulatory setting. 
 
-Perhaps most fortunately for me, through the adaptive design working group, chaired by Celia Lourenco in 2011. I got to see how some were putting what they took away from the courses in their work. For the most part, not at all what I was trying to actually get across. Maybe even did more harm than good. As Neil deGrasse Tyson put it, the challenge of learning enough to think you are right. Versus enough to know you are wrong. 
+Perhaps most fortunately for me, through the adaptive design working group, chaired by YYYY in 2011. I got to see how some were putting what they took away from the courses in their work. For the most part, not at all what I was trying to actually get across. Maybe even did more harm than good. As Neil deGrasse Tyson put it, the challenge of learning enough to think you are right. Versus enough to know you are wrong. 
 
-However, I have given a few external webinars and seminars for societies, a Canadian School for Public Servants enabled Bayesian self learning course and a Shopify invited talk since then. Perhaps more relevant, I recently did internal lunch and learns at PMRA for the evaluators. Repeatedly trying to address the deficiencies. 
+However, I have given a few external webinars and seminars for societies, a Canadian School for Public Servants enabled Bayesian self learning course and a Shopify invited talk since then. Perhaps more relevant, I recently did internal lunch and learns at XXXX for the evaluators. Repeatedly trying to address the deficiencies. 
 
 Think I now can do better."
 
